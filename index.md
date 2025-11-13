@@ -24,18 +24,18 @@ Ethics Papers
 
 ### [AI Ethics in Automotive Manufacturing](/pdf/sample_presentation.pdf)
 
--   **Class:**  
--   **Grade:**
+-   **Class:** CSCI 301
+-   **Grade:** 100
 
 ---
 
 Presentations
 -------------
 
-### [Presentation 1 Title](/pdf/sample_presentation.pdf)
+### [Stuxnet](/pdf/sample_presentation.pdf)
 
-- **Class:** 
-- **Grade:**
+- **Class:** CSCI 405
+- **Grade:** 100
 
 ---
 
