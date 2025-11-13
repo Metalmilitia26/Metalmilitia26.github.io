@@ -4,10 +4,10 @@ Hangman Game
 ===============
 
 -   **Class:** CSCI 325
--   **Grade:** 79
+-   **Grade:** B
 -   **Language(s):** C++
 -   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
-    (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
+    (Please [email me](mailto:TAJenkins@student.csuniv.edu?subject=GitHub%20Access) to request access.)
 
 ## Project description
 
