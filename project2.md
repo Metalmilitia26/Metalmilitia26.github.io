@@ -4,8 +4,7 @@ Air Drop
 -   **Class:** CSCI 332
 -   **Grade:** 100
 -   **Language(s):** C++
-- **Source Code Repository:** [Air Drop Project](https://github.com/Metalmilitia26/airdrop-project)  
-  (Please email me to request access.)
+- **Source Code Repository:** [Air Drop Project](https://github.com/Metalmilitia26/airdrop-project)
 
 
     (Please [email me](mailto:TAJenkins@student.csuniv.edu?subject=GitHub%20Access) to request access.)
