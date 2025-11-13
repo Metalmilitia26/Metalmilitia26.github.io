@@ -7,8 +7,6 @@ Hangman Game
 -   **Grade:** B
 -   **Language(s):** C++
 - **Source Code Repository:** [Hangman Project](https://github.com/Metalmilitia26/hangman-project)
-  (Please email me to request access.)
-
 
     (Please [email me](mailto:TAJenkins@student.csuniv.edu?subject=GitHub%20Access) to request access.)
 
