@@ -19,7 +19,7 @@ Programming Projects
 
 ---
 
-Ethics Papers
+Ethics Paper
 -------------
 
 ### [AI Ethics in Automotive Manufacturing](/pdf/sample_presentation.pdf)
@@ -29,7 +29,7 @@ Ethics Papers
 
 ---
 
-Presentations
+Presentation
 -------------
 
 ### [Stuxnet](/pdf/sample_presentation.pdf)
