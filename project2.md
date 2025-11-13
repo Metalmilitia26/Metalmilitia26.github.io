@@ -11,7 +11,13 @@ Air Drop
 
 ## Project description
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+This project was a partner-based assignment where we created a client/server application in C++.  
+I wrote one side of the program, and my partner wrote the other side.  
+Both the client and server files are included in the repository so the full system can run as intended.
+
+The Air Drop program works by allowing the client to send data to the server, which processes and returns a response. 
+In this case, we sent a picture of a "Honey Crisp apple". 
+This assignment helped reinforce concepts such as networking, sockets, communication protocols, and teamwork in software development.
 
 ## How to compile and run the program
 
