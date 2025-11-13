@@ -22,7 +22,7 @@ Programming Projects
 Ethics Papers
 -------------
 
-### [Paper 1 Title](/pdf/sample_presentation.pdf)
+### [AI Ethics in Automotive Manufacturing](/pdf/sample_presentation.pdf)
 
 -   **Class:**  
 -   **Grade:**
