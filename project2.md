@@ -32,7 +32,7 @@ To start the server:
 
 To start the Client:
 
-    .Timmyclient.out
+    ./Timmyclient.out
 
 Make sure the server is running **BEFORE** launching the client.
 
