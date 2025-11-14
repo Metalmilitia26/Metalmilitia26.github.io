@@ -58,7 +58,9 @@ Fig 3. This is the file that was transferred.
 
 ## 3. Additional Considerations
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+This project was a valuable introduction to basic networking concepts, client/server communication, and teamwork in software development. Working with a partner reinforced the importance of coordinating responsibilities, testing both sides of the system, and ensuring compatibility between the client and server programs.
+
+The experience also provided practical exposure to running compiled programs in a virtual Ubuntu environment and managing multiple terminal windows during execution.
 
 For more details, see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
