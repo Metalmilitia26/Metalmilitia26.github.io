@@ -62,6 +62,4 @@ This project was a valuable introduction to basic networking concepts, client/se
 
 The experience also provided practical exposure to running compiled programs in a virtual Ubuntu environment and managing multiple terminal windows during execution.
 
-For more details, see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
 [Back to Portfolio](./)
