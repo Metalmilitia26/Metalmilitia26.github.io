@@ -24,7 +24,7 @@ This assignment helped reinforce concepts such as networking, sockets, communica
 ## How to run the program
 
 This project was executed on an Ubuntu virtual machine using precompiled `.out` executable files.  
-No compilation was required to run the program.
+No compilation was required to run the program. The class used Visual Studio Code along with additional C++ extensions to compile the code beforehand. 
 
 To start the server:
 
