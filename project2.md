@@ -14,7 +14,7 @@ Air Drop
 ## Project description
 
 This project was a partner-based assignment where we created a client/server application in C++.  
-I wrote one side of the program, and my partner wrote the other side.  
+I wrote the client side of the program, and my partner, Brandon Cooper, wrote the server side.  
 Both the client and server files are included in the repository so the full system can run as intended.
 
 The Air Drop program works by allowing the client to send data to the server, which processes and returns a response. 
