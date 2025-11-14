@@ -22,7 +22,7 @@ Programming Projects
 Ethics Paper
 -------------
 
-### [AI Ethics in Automotive Manufacturing](Ai Ethics in Automotive Manufacturing.docx)
+### [AI Ethics in Automotive Manufacturing](AI Ethics in Automotive Manufacturing.pdf)
 
 -   **Class:** CSCI 301
 -   **Grade:** 100
