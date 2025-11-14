@@ -32,7 +32,7 @@ Ethics Paper
 Presentation
 -------------
 
-### [Stuxnet](/pdf/Stuxnet.pdf)
+### [Stuxnet](Stuxnet.pdf)
 
 - **Class:** CSCI 405
 - **Grade:** 100
