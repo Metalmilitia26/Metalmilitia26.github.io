@@ -14,7 +14,7 @@ Programming Projects
 ---
 ### [Air Drop | CSCI 332](project1)
 
-![Project 2 Thumbnail Name](Honeycrisp=Apple.jpg)
+![Project 2 Thumbnail Name](Honeycrisp-Apple.jpg)
 
 
 ---
