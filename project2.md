@@ -36,8 +36,6 @@ To start the Client:
 
 Make sure the server is running **BEFORE** launching the client.
 
-If the programming language does not require compilation, then update the heading to be “How to run the program.” If your application is deployed on a remote service, include instructions on how to deploy it.
-
 ## UI Design
 
 This program runs entirely through a command-line interface on Ubuntu.  
