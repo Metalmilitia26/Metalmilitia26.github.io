@@ -21,22 +21,30 @@ The Air Drop program works by allowing the client to send data to the server, wh
 In this case, we sent a picture of a "Honey Crisp apple". 
 This assignment helped reinforce concepts such as networking, sockets, communication protocols, and teamwork in software development.
 
-## How to compile and run the program
+## How to run the program
 
-How to compile (if applicable) and run the project.
+This project was executed on an Ubuntu virtual machine using precompiled `.out` executable files.  
+No compilation was required to run the program.
 
-```bash
-cd ./project
-python setup.py
-```
+To start the server:
 
-If the programming language does not require compilation, the update the heading to be “How to run the program.” If your application is deployed on a remote service, including instructions on how to deploy it.
+    ./Brandon_Server_2.out
+
+To start the Client:
+
+    .Timmyclient.out
+
+Make sure the server is running **BEFORE** launching the client.
+
+If the programming language does not require compilation, then update the heading to be “How to run the program.” If your application is deployed on a remote service, include instructions on how to deploy it.
 
 ## UI Design
 
-Almost every program requires user interaction, even command-line programs. Include in this section the tasks the user can complete and what the program does. You don't need to include how it works here; that information may go in the project description or in an additional section, depending on its significance.
+This program runs entirely through a command-line interface on Ubuntu.  
+The user interacts with the client by entering data through the terminal, while the server processes incoming requests and returns responses.
 
-Lorem ipsum dolor sit amet (see Fig 1), consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat (see Fig 2). Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum (see Fig 3).
+There is no graphical interface.  
+All input and output occur through text-based commands in two separate terminal windows — one for the server and one for the client.
 
 ![screenshot](images/dummy_thumbnail.jpg)  
 Fig 1. The launch screen
@@ -51,6 +59,6 @@ Fig 3. Feedback when an error occurs.
 
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more details, see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 [Back to Portfolio](./)
