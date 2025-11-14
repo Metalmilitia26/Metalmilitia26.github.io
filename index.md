@@ -7,12 +7,12 @@ Programming Projects
 *For access to my private project repositories, please [email me](mailto:TAJenkins@student.csuniv.edu?subject=GitHub%20Access) with the subject line, GitHub Access.
 
 ---
-### [Hangman Game | CSCI 235](project1)
+### [Hangman Game | CSCI 235](project1.md)
 
 ![Project 1 Thumbnail Name](images/Hangman_thumbnail.png)
 
 ---
-### [Air Drop | CSCI 332](project1)
+### [Air Drop | CSCI 332](project2.md)
 
 ![Project 2 Thumbnail Name](Honeycrisp-Apple.jpg)
 
