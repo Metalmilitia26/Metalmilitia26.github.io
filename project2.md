@@ -46,14 +46,17 @@ The user interacts with the client by entering data through the terminal, while 
 There is no graphical interface.  
 All input and output occur through text-based commands in two separate terminal windows — one for the server and one for the client.
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 1. The launch screen
+## Screenshots
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 2. Example output after input is processed.
+![screenshot](server.png)  
+Fig 1. Server-side code execution. The Honeycrisp-Apple is received at the end of the program. 
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 3. Feedback when an error occurs.
+![screenshot](client.png)  
+Fig 2. Client-side code execution.
+
+![screenshot](Honeycrisp-Apple.jpg)  
+Fig 3. This is the file that was transferred. 
+
 
 ## 3. Additional Considerations
 
