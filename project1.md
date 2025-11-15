@@ -12,24 +12,37 @@ Hangman Game
 
 ## Project description
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+This project is a classic Hangman word-guessing game written in C++.  
+The program reads phrases from a file, selects a random phrase based on the difficulty level,  
+and allows the player to guess letters until they either solve the phrase or make five incorrect guesses.
+
+As the player guesses incorrectly, the ASCII hangman drawing is updated step-by-step.  
+The game also prevents repeated guesses, displays the puzzle with blanks and revealed letters,  
+validates input, and determines win or loss conditions.
+
+This project was completed using starter code provided by Dr. Hayes, and additional logic  
+and features were implemented by **Timmy Jenkins**.
 
 ## How to compile and run the program
 
-How to compile (if applicable) and run the project.
-
 ```bash
-cd ./project
-python setup.py
+g++ Hangman.cpp -o Hangman.out
+./Hangman.out
 ```
-
-If the programming language does not require compilation, the update the heading to be “How to run the program.” If your application is deployed on a remote service, including instructions on how to deploy it.
 
 ## UI Design
 
-Almost every program requires user interaction, even command-line programs. Include in this section the tasks the user can complete and what the program does. You don't need to include how it works here; that information may go in the project description or in an additional section, depending on its significance.
+The Hangman program runs in the terminal and uses simple text-based interaction. The user selects a difficulty level, views the gallows drawing, and enters letter guesses one at a time. After each guess, the game updates the display by showing:
 
-Lorem ipsum dolor sit amet (see Fig 1), consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat (see Fig 2). Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum (see Fig 3).
+The current state of the gallows (Fig 1).
+
+Correctly revealed letters in the phrase.
+
+A list of previous incorrect guesses.
+
+Win or loss messages when the game concludes (Fig 2, Fig 3).
+
+This interface makes it easy for the user to follow progress, understand mistakes, and visually see the hangman form as misses accumulate.
 
 ![screenshot](Gamestart.png)  
 Fig 1. The game starts and asks what difficulty you want to play on. 
@@ -45,8 +58,12 @@ Fig 4. This is the list of phrases that the game looks for to play.
 
 ## 3. Additional Considerations
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+- Phrases are loaded dynamically from the phrases.txt file.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- Difficulty (Easy, Medium, Hard) is based on the number of unique letters in the phrase.
+
+- The hangman figure updates with each incorrect guess.
+
+- The program demonstrates modular design, text processing, randomization, and user interaction.
 
 [Back to Portfolio](./)
