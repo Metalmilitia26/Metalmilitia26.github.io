@@ -34,13 +34,13 @@ g++ Hangman.cpp -o Hangman.out
 
 The Hangman program runs in the terminal and uses simple text-based interaction. The user selects a difficulty level, views the gallows drawing, and enters letter guesses one at a time. After each guess, the game updates the display by showing:
 
-The current state of the gallows (Fig 1).
+The current state of the gallows.
 
 Correctly revealed letters in the phrase.
 
 A list of previous incorrect guesses.
 
-Win or loss messages when the game concludes (Fig 2, Fig 3).
+Win or loss messages when the game concludes.
 
 This interface makes it easy for the user to follow progress, understand mistakes, and visually see the hangman form as misses accumulate.
 
