@@ -31,14 +31,17 @@ Almost every program requires user interaction, even command-line programs. Incl
 
 Lorem ipsum dolor sit amet (see Fig 1), consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat (see Fig 2). Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum (see Fig 3).
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 1. The launch screen
+![screenshot](Execution.png)  
+Fig 1. The game starts and asks what difficulty you want to play on. 
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 2. Example output after input is processed.
+![screenshot](Winning.png)  
+Fig 2. This screenshot shows the operation and completion of the game, as well as the winning message. 
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 3. Feedback when an error occurs.
+![screenshot](Losing.png)  
+Fig 3. This screenshot shows what happens when you guess the wrong letters too many times. 
+
+![screenshot](Phrases.png)  
+Fig 4. This is the list of phrases that the game looks for to play. 
 
 ## 3. Additional Considerations
 
